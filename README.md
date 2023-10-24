@@ -7,3 +7,5 @@
 [Read 03](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-03)
 
 [Read 04](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-04)
+
+[Read 05](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-05)
