@@ -14,4 +14,4 @@
 
 [Read 08](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-08)
 
-[Read 09}(https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-09)
+[Read 09](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-09)
