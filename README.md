@@ -19,3 +19,5 @@
 [Read 10](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-10)
 
 [Read 11](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-11)
+
+[Read 12](https://github.com/BryannaKFox/Seattle-Ops-201d10/wiki/Read-12)
